@@ -1,0 +1,26 @@
+{
+    "description": "这是灰常好玩的打飞机游戏！", 
+    "design_resolution": {
+        "height": 720, 
+        "policy": "SHOW_ALL", 
+        "width": 480
+    }, 
+    "entry_file": {
+        "md5": "3ebafd20193c622ea296737c8c8b1018", 
+        "name": "main.js"
+    }, 
+    "game_name": "月亮战士", 
+    "manifest_file": {
+        "md5": "8bf19a7fffcb9da2099ad7e2f479a400", 
+        "name": "manifest.json"
+    }, 
+    "orientation": 1, 
+    "package_name": "org.cocos2dx.moonwarriors", 
+    "project_json_file": {
+        "md5": "aa1a42e120434695879cd91f97d10c70", 
+        "name": "project.json"
+    }, 
+    "runtime_version": "3.5.0", 
+    "version_code": 6, 
+    "version_name": "1.0.1"
+}
