@@ -19,7 +19,7 @@
     "res_groups": [
         {
             "group_info_md5": "948eec3948d13747838c048507c0adb1", 
-            "md5": "33eb9bba198b3aa1360cd0d4b191ce3b", 
+            "md5": "71bb974cad970aa941cae5da3700f269", 
             "name": "boot", 
             "patch": {}, 
             "priority": 0, 
@@ -27,30 +27,30 @@
             "url": "group/boot.zip"
         }, 
         {
-            "group_info_md5": "dd704365c2f48d27e6b24310dcad4c26", 
-            "md5": "5aab3aee3f07a08d6bda0950155f84ee", 
+            "group_info_md5": "3789890c3a2c8009109ac1a27eaca90b", 
+            "md5": "83377a19ea2602d7b57551650ec7cc4a", 
             "name": "gamelayer", 
             "patch": {}, 
             "priority": 1, 
-            "size": 1146865, 
+            "size": 10882197, 
             "url": "group/gamelayer.zip"
         }, 
         {
-            "group_info_md5": "f9c4b9f061fd038bc2d114d9d4defec8", 
-            "md5": "f71103aa2276fe4b0a52122688e21147", 
+            "group_info_md5": "a51c78cc8f9226445efd91691d7afada", 
+            "md5": "ed710e622ed195055480c5f32423768a", 
             "name": "common", 
             "patch": {}, 
             "priority": 2, 
-            "size": 15150, 
+            "size": 9750488, 
             "url": "group/common.zip"
         }, 
         {
-            "group_info_md5": "d2887c745ffac829ad8e21a4e1283808", 
-            "md5": "08c2785a26048e4fb09b39f93209e3f5", 
+            "group_info_md5": "438598ef0ef12903b0519d8eb3e99a1e", 
+            "md5": "3116f847a114af3bf588167378b1b438", 
             "name": "gameover", 
             "patch": {}, 
             "priority": 3, 
-            "size": 45923, 
+            "size": 9781256, 
             "url": "group/gameover.zip"
         }
     ], 
