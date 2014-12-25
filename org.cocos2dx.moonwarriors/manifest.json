@@ -21,7 +21,7 @@
     "res_groups": [
         {
             "group_info_md5": "05433c3069b5184c6a27c9f26ff3759a", 
-            "md5": "ce5dfe8bf5c2e89eb02874be5e224075", 
+            "md5": "cbc54cd6cf7644d6144034cdc247b299", 
             "name": "boot", 
             "patch": {}, 
             "priority": 0, 
@@ -30,7 +30,7 @@
         }, 
         {
             "group_info_md5": "9228e4489e248d355fd566c95b079dae", 
-            "md5": "cff745cc926f7d989b37c73932ca3230", 
+            "md5": "d5ed03b2ca5f923b5551158724972290", 
             "name": "gamelayer", 
             "patch": {}, 
             "priority": 1, 
@@ -39,7 +39,7 @@
         }, 
         {
             "group_info_md5": "3489576ea15fac0ea4a2cbde7a6d9a69", 
-            "md5": "9040182776cb6bdc35568868a612b002", 
+            "md5": "74bfbface555e46bb1cdbf94f75fc118", 
             "name": "common", 
             "patch": {}, 
             "priority": 2, 
@@ -48,7 +48,7 @@
         }, 
         {
             "group_info_md5": "9a36b880ebd3cf59d34a7f9804ffde57", 
-            "md5": "85035f7b59a3ffcbe10f091591e4ea72", 
+            "md5": "67791e7001877ea9d504dbe433cf47bb", 
             "name": "gameover", 
             "patch": {}, 
             "priority": 3, 

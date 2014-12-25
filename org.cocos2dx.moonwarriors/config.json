@@ -1,6 +1,6 @@
 {
     "boot_group": {
-        "md5": "ce5dfe8bf5c2e89eb02874be5e224075", 
+        "md5": "cbc54cd6cf7644d6144034cdc247b299", 
         "name": "boot.zip", 
         "size": 1796006
     }, 
@@ -17,7 +17,7 @@
     }, 
     "game_name": "月亮战士", 
     "manifest_file": {
-        "md5": "a863a023be685ad8714ab002a013ace6", 
+        "md5": "cfb5de1b418cbda888958556aaf36b67", 
         "name": "manifest.json", 
         "size": 1865
     }, 
