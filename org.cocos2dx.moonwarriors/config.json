@@ -1,6 +1,6 @@
 {
     "boot_group": {
-        "md5": "09945d7c91f97871f7f1574c29d47293", 
+        "md5": "163dc979ee4b9b157c211188f5a1dcdc", 
         "name": "boot.zip", 
         "size": 1796006
     }, 
@@ -17,7 +17,7 @@
     }, 
     "game_name": "月亮战士", 
     "manifest_file": {
-        "md5": "fb343d076f40b449c1270cb64136cd52", 
+        "md5": "ade6297ec35c09f1511615a4ce45b17a", 
         "name": "manifest.json", 
         "size": 1858
     }, 
@@ -28,7 +28,7 @@
         "name": "project.json", 
         "size": 876
     }, 
-    "runtime_version": "3.5.0", 
-    "version_code": 6, 
-    "version_name": "1.0.1"
+    "runtime_version": "3.6.0", 
+    "version_code": 7, 
+    "version_name": "1.0.2"
 }
