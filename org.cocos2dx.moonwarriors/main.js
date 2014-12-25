@@ -93,11 +93,24 @@ cc.game.onStart = function(){
             searchPaths.push("group/src");
         }
         jsb.fileUtils.setSearchPaths(searchPaths);
+        //get netowrk status
+        var networkStatus = cc.network.getNetworkType();
+        if(networkStatus == cc.network.type.WIFI){
+            cc.log("current network is WIFI");
+        }else if(networkStatus == cc.network.type.MOBILE){
+            cc.log("current network is MOBILE");
+        }else if(networkStatus == cc.network.type.NO_NETWORK){
+            cc.log("current network is UNKNOWN");
+        }
+        cc.director.runScene(SysMenu.scene());
+    }else{
+        cc.LoaderScene.preload("boot", function () {
+            cc.director.runScene(SysMenu.scene());
+        });
     }
 
     var self = this;
     //load resources
-    cc.director.runScene(SysMenu.scene());
 };
 
 cc.game.run();

@@ -1,4 +1,9 @@
 {
+    "boot_group": {
+        "md5": "09945d7c91f97871f7f1574c29d47293", 
+        "name": "boot.zip", 
+        "size": 1796006
+    }, 
     "description": "这是灰常好玩的打飞机游戏！", 
     "design_resolution": {
         "height": 720, 
@@ -6,19 +11,22 @@
         "width": 480
     }, 
     "entry_file": {
-        "md5": "3ebafd20193c622ea296737c8c8b1018", 
-        "name": "main.js"
+        "md5": "f8851ddc6c5af73753ed0ae7e88d7a16", 
+        "name": "main.js", 
+        "size": 5123
     }, 
     "game_name": "月亮战士", 
     "manifest_file": {
-        "md5": "9efc89271beea1d216dbc42379024337", 
-        "name": "manifest.json"
+        "md5": "fb343d076f40b449c1270cb64136cd52", 
+        "name": "manifest.json", 
+        "size": 1858
     }, 
     "orientation": 1, 
     "package_name": "org.cocos2dx.moonwarriors", 
     "project_json_file": {
-        "md5": "aa1a42e120434695879cd91f97d10c70", 
-        "name": "project.json"
+        "md5": "3853317b1fd6e009a098d0be94629dee", 
+        "name": "project.json", 
+        "size": 876
     }, 
     "runtime_version": "3.5.0", 
     "version_code": 6, 
