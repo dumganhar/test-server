@@ -1,6 +1,6 @@
 {
     "boot_group": {
-        "md5": "cbc54cd6cf7644d6144034cdc247b299", 
+        "md5": "06b2464aacc74ed02124a7fe23f9d5cb", 
         "name": "boot.zip", 
         "size": 1796006
     }, 
@@ -17,11 +17,11 @@
     }, 
     "game_name": "月亮战士", 
     "manifest_file": {
-        "md5": "cfb5de1b418cbda888958556aaf36b67", 
+        "md5": "23d1d3732395143777138dde4d8e6c76", 
         "name": "manifest.json", 
-        "size": 1865
+        "size": 1874
     }, 
-    "orientation": 1, 
+    "orientation": "portrait", 
     "package_name": "org.cocos2dx.moonwarriors", 
     "project_json_file": {
         "md5": "3853317b1fd6e009a098d0be94629dee", 
