@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta id="viewport" name="viewport" content="width=device-width,height=device-height,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0">
+<title>
+Game Test
+</title>
+</head>
+<body>
+
+<br>
+<br>
+<button onclick="cocos2d()">使用Runtime运行MoonWarriors</button>
+<script type="text/javascript">
+  
+    function cocos2d()
+    {
+        GameEngine.init("cocos2d");
+
+        var configObj = {
+            "game_name": "月亮战士",
+            "package_name": "org.cocos2dx.moonwarriors",
+            "version_name": "1.0.2",
+            "version_code": 7,
+            "runtime_version": "3.6.0",
+            "description": "这是灰常好玩的打飞机游戏！",
+            "orientation": "portrait",
+            "entry_file": "main.js",
+            "design_resolution": {
+                "width": 480,
+                "height": 720,
+                "policy": "SHOW_ALL"
+            }
+        };
+
+        GameEngine.setOption("config", JSON.stringify(configObj));
+        GameEngine.start("url");
+    }
+
+    </script>
+    
+</body></html>
