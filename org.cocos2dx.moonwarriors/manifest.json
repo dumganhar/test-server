@@ -11,7 +11,7 @@
         "size": 5123
     }, 
     "game_name": "月亮战士", 
-    "orientation": 1, 
+    "orientation": "portrait", 
     "package_name": "org.cocos2dx.moonwarriors", 
     "project_json_file": {
         "md5": "3853317b1fd6e009a098d0be94629dee", 
@@ -21,7 +21,7 @@
     "res_groups": [
         {
             "group_info_md5": "05433c3069b5184c6a27c9f26ff3759a", 
-            "md5": "1671266773f644d54c9f7e3620f4c00f", 
+            "md5": "b509532529a26bc5333be8a076e6ef12", 
             "name": "boot", 
             "patch": {}, 
             "priority": 0, 
@@ -29,30 +29,30 @@
             "url": "group/boot.zip"
         }, 
         {
-            "group_info_md5": "224d15b307d7e497b26f5e466f06883c", 
-            "md5": "195029058ba434ac610d9d7fccfccb04", 
+            "group_info_md5": "bbd9079b425435cc78a44c8786ff458a", 
+            "md5": "c588b453d67defdfe2f0946c2e1e7a37", 
             "name": "gamelayer", 
             "patch": {}, 
             "priority": 1, 
-            "size": 1146864, 
+            "size": 10882197, 
             "url": "group/gamelayer.zip"
         }, 
         {
-            "group_info_md5": "b36c4bb7c4e8850ed2f000b877f33ada", 
-            "md5": "42afe4c6151472fb98ba3dcf04ce3ac9", 
+            "group_info_md5": "06405261f43eb4fc90ee45205b18579f", 
+            "md5": "40232a1ef76bbbdd09c7e877251b4c2e", 
             "name": "common", 
             "patch": {}, 
             "priority": 2, 
-            "size": 15151, 
+            "size": 9750488, 
             "url": "group/common.zip"
         }, 
         {
-            "group_info_md5": "9f315882df6ddd7edae86fbe4d684f3b", 
-            "md5": "17038f1c600b149be8a943661a9322f8", 
+            "group_info_md5": "42826aaf0ad849bec66c239367823e7f", 
+            "md5": "5bcd17f03280190095aceed0e635db8f", 
             "name": "gameover", 
             "patch": {}, 
             "priority": 3, 
-            "size": 45923, 
+            "size": 9781255, 
             "url": "group/gameover.zip"
         }
     ], 
