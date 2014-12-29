@@ -11,7 +11,7 @@
         "size": 5123
     }, 
     "game_name": "月亮战士", 
-    "orientation": 1, 
+    "orientation": "portrait", 
     "package_name": "org.cocos2dx.moonwarriors", 
     "project_json_file": {
         "md5": "3853317b1fd6e009a098d0be94629dee", 
@@ -21,7 +21,7 @@
     "res_groups": [
         {
             "group_info_md5": "05433c3069b5184c6a27c9f26ff3759a", 
-            "md5": "1671266773f644d54c9f7e3620f4c00f", 
+            "md5": "be7e15d2e6b1d37d48b13f6b5a5e132c", 
             "name": "boot", 
             "patch": {}, 
             "priority": 0, 
@@ -30,7 +30,7 @@
         }, 
         {
             "group_info_md5": "224d15b307d7e497b26f5e466f06883c", 
-            "md5": "195029058ba434ac610d9d7fccfccb04", 
+            "md5": "e8787621483b8c62d6e9e6fd1d99d2f8", 
             "name": "gamelayer", 
             "patch": {}, 
             "priority": 1, 
@@ -39,7 +39,7 @@
         }, 
         {
             "group_info_md5": "b36c4bb7c4e8850ed2f000b877f33ada", 
-            "md5": "42afe4c6151472fb98ba3dcf04ce3ac9", 
+            "md5": "84348f0b407673efa89b03809afc07f1", 
             "name": "common", 
             "patch": {}, 
             "priority": 2, 
@@ -48,7 +48,7 @@
         }, 
         {
             "group_info_md5": "9f315882df6ddd7edae86fbe4d684f3b", 
-            "md5": "17038f1c600b149be8a943661a9322f8", 
+            "md5": "dc13974094af18603f49854a604fbf0d", 
             "name": "gameover", 
             "patch": {}, 
             "priority": 3, 
